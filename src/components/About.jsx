@@ -15,9 +15,8 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
-              Das ist meine Seite in welcher ich mich vorstelle Lorem Ipsum is simply dummy text of the printing and typesetting
+              Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
-              eNun habe ich wieder einen Branch
               type and scrambled it to make a type specimen book.
             </p>
           </div>
